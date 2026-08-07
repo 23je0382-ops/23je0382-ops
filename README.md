@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=23je0382-ops&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Incoming%20SWE%20Intern%20%40%20Texas%20Instruments%20%7C%20AI%2FML%20Engineer&descAlignY=56&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=23je0382-ops&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer&descAlignY=56&descSize=18" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=500&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Scalable+Systems+%26+Intelligent+Solutions;Incoming+SWE+Intern+@+Texas+Instruments;Software+Engineer+%7C+AI%2FML+Practitioner;Open+Source+Contributor+%7C+Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=500&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Scalable+Systems+%26+Intelligent+Solutions;Software+Engineer+%7C+AI%2FML+Practitioner;Open+Source+Contributor+%7C+Problem+Solver" alt="Typing SVG" />
   </a>
 </p>
 
@@ -167,14 +167,6 @@ Designed for non-technical users who need data insights without writing SQL. The
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="28" /> &nbsp;Experience
-
-**Incoming Software Engineering Intern** · *Texas Instruments* · `Upcoming`
-
-- Selected for the Software Engineering internship role for the upcoming term
-
-`C` `C++` `Embedded Systems` `Software Engineering`
-
----
 
 **Software and AI Engineer Intern** · *ClimateAgentsAI* · `Nov 2025 – Apr 2026` · `Remote`
 
