@@ -112,7 +112,7 @@ My work spans building intelligent systems powered by **machine learning**, desi
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="28" /> &nbsp;AI / ML Expertise
+## 🤖 &nbsp;AI / ML Expertise
 
 | Domain | Proficiency | Details |
 |:---|:---:|:---|
@@ -122,7 +122,7 @@ My work spans building intelligent systems powered by **machine learning**, desi
 | **Classical ML** | ██████████ | Scikit-learn, XGBoost, feature engineering, model evaluation |
 | **System Design** | ████████░░ | Scalable architectures, microservices, load balancing, caching, database sharding |
 | **Data Structures & Algorithms** | ██████████ | Trees, graphs, dynamic programming, greedy, divide & conquer, competitive programming |
-| **Data Engineering** | ████████░░ | ETL pipelines, data warehousing, Apache Spark, stream processing |
+
 
 ---
 
