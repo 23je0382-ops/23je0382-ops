@@ -84,7 +84,7 @@ My work spans building intelligent systems powered by **machine learning**, desi
 <td align="center" width="96"><b>Backend & DB</b></td>
 <td>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask,django,postgres,mongodb,redis&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=fastapi,flask,django,postgres,mongodb,redis&theme=dark" />
   </a>
 </td>
 </tr>
@@ -100,7 +100,7 @@ My work spans building intelligent systems powered by **machine learning**, desi
 <td align="center" width="96"><b>AI / ML</b></td>
 <td>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,fastapi&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark" />
   </a>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphql&logoColor=white" />
