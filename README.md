@@ -179,15 +179,6 @@ Designed for non-technical users who need data insights without writing SQL. The
 
 ---
 
-**Freelance Backend & AI Engineer** · *FinTech Client* · `Feb 2026 – Mar 2026` · `Remote`
-
-- Built an automated Python/FastAPI data pipeline to process multi-timeframe charts and 100,000+ rows of OHLC data for 3,000+ real-time users
-- Designed a fault-tolerant routing engine — integrating OpenAI API for structured JSON extraction and dispatching webhooks to WhatsApp with zero-crash fallbacks
-
-`Python` `FastAPI` `OpenAI API` `Webhooks` `Data Pipelines`
-
----
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="28" /> &nbsp;Achievements
 
 <p align="center">
