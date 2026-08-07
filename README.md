@@ -194,47 +194,6 @@ Designed for non-technical users who need data insights without writing SQL. The
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" width="28" /> &nbsp;Certifications
-
-<details>
-<summary><b>☁️ Amazon Web Services (AWS)</b></summary>
-<br>
-
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Solutions Architect](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🔴 Oracle</b></summary>
-<br>
-
-![Oracle Cloud](https://img.shields.io/badge/Oracle-Cloud_Infrastructure-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Oracle Java](https://img.shields.io/badge/Oracle-Java_SE_Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>📚 NPTEL</b></summary>
-<br>
-
-![NPTEL DSA](https://img.shields.io/badge/NPTEL-Data_Structures_&_Algorithms-1a73e8?style=for-the-badge&logo=google&logoColor=white)
-![NPTEL ML](https://img.shields.io/badge/NPTEL-Machine_Learning-1a73e8?style=for-the-badge&logo=google&logoColor=white)
-![NPTEL DBMS](https://img.shields.io/badge/NPTEL-Database_Management-1a73e8?style=for-the-badge&logo=google&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🌐 Cisco</b></summary>
-<br>
-
-![Cisco Networking](https://img.shields.io/badge/Cisco-Networking_Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Cisco Cybersecurity](https://img.shields.io/badge/Cisco-Cybersecurity_Fundamentals-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
-</details>
-
----
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="28" /> &nbsp;Coding Profiles
 
 <p align="center">
