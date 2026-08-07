@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-Computer_Science-8B5CF6?style=for-the-badge&logo=google-scholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/IIT_Dhanbad-2024--28-6D28D9?style=for-the-badge&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/B.Tech+M.Tech-Mathematics_&_Computing-8B5CF6?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/IIT_Dhanbad-2023--28-6D28D9?style=for-the-badge&logo=academia&logoColor=white" />
 </p>
 
 <p align="center">
