@@ -205,17 +205,7 @@ Designed for non-technical users who need data insights without writing SQL. The
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23je0382-ops&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&langs_count=8" />
 </p>
 
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" width="28" /> &nbsp;GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=23je0382-ops&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
-</p>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="28" /> &nbsp;Contribution Activity
+## ⚡ &nbsp;Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=23je0382-ops&bg_color=0d1117&color=8B5CF6&line=7C3AED&point=c9d1d9&area=true&area_color=6D28D9&hide_border=true&custom_title=Contribution%20Graph" width="98%" />
