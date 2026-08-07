@@ -218,15 +218,6 @@ Highly motivated Software Engineer specializing in building robust, scalable ful
 
 ---
 
-<!-- 13. Contribution Snake Section -->
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/23je0382-ops/23je0382-ops/main/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake"/>
-</div>
-
----
-
 <!-- 14. Current Focus Section -->
 ## 🎯 Current Focus
 
@@ -260,6 +251,19 @@ Open_To:
   <a href="https://github.com/23je0382-ops">
     <img src="https://img.shields.io/badge/Portfolio-9333EA?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
+</div>
+
+---
+
+<!-- 13. Contribution Snake Section -->
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="./github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
 
 ---
