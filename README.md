@@ -129,78 +129,38 @@ My work spans building intelligent systems powered by **machine learning**, desi
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="28" /> &nbsp;Featured Projects
 
 <details>
-<summary><b>🔮 Intelligent Document Analyzer — AI-Powered Document Understanding Platform</b></summary>
+<summary><b>🤖 Agglomeration-IntelliDeskAI — Agentic AI Helpdesk 2.0</b></summary>
 <br>
 
-End-to-end document intelligence system that extracts, classifies, and summarizes unstructured documents using transformer-based models with a production-grade REST API.
+Auto-classifies tickets, detects urgency, threads emails, and drafts RAG-powered responses using Groq & MongoDB. A fully agentic AI-powered helpdesk system built with LangChain and LangGraph.
 
 | Dimension | Details |
 |:---|:---|
-| **Stack** | Python, FastAPI, PyTorch, Transformers, PostgreSQL, Docker, AWS |
-| **Scale** | Processes 10K+ documents/day with sub-second latency |
-| **Performance** | 94.2% F1 score on document classification, 3x faster than baseline |
-| **Security** | JWT auth, encrypted storage, RBAC, audit logging |
-| **Impact** | Reduced manual document review time by 78% |
-| **Repository** | [View on GitHub →](https://github.com/23je0382-ops) |
+| **Stack** | Python, LangChain, LangGraph, Groq, MongoDB, FastAPI |
+| **Architecture** | Multi-agent pipeline with autonomous ticket routing and escalation |
+| **Features** | Auto-classification, urgency detection, email threading, RAG-powered drafts |
+| **AI** | Agentic workflows, tool-use orchestration, retrieval-augmented generation |
+| **Repository** | [View on GitHub →](https://github.com/23je0382-ops/Agglomeration-IntelliDeskAI) |
 
-Built with a microservices architecture — separate services for OCR, classification, summarization, and retrieval. Each service is independently deployable and horizontally scalable behind an API gateway.
+Built with a multi-agent architecture where specialized agents handle classification, urgency scoring, thread management, and response generation — each orchestrated through LangGraph's stateful workflows.
 
 </details>
 
 <details>
-<summary><b>⚡ Real-Time Analytics Engine — High-Throughput Event Processing Pipeline</b></summary>
+<summary><b>🗄️ DatabaseGPT — Ask Your Database in Natural Language</b></summary>
 <br>
 
-Distributed event processing system that ingests, transforms, and visualizes streaming data in real-time with configurable alerting and anomaly detection.
+Natural language interface for querying databases — converts plain English questions into SQL, executes them, and returns human-readable results. No SQL knowledge required.
 
 | Dimension | Details |
 |:---|:---|
-| **Stack** | Go, Apache Kafka, Redis, ClickHouse, React, Grafana, Kubernetes |
-| **Scale** | 50K+ events/second sustained throughput |
-| **Performance** | P99 latency < 200ms end-to-end |
-| **Security** | mTLS, API key rotation, network policies, encrypted at rest |
-| **Impact** | Powers monitoring for 3 internal services with 99.95% uptime |
-| **Repository** | [View on GitHub →](https://github.com/23je0382-ops) |
+| **Stack** | Python, LLM Integration, SQL, Streamlit |
+| **Features** | Natural language to SQL conversion, query execution, result visualization |
+| **AI** | LLM-powered query generation, schema-aware context injection, error handling |
+| **UX** | Conversational interface — ask questions in plain English, get instant answers |
+| **Repository** | [View on GitHub →](https://github.com/23je0382-ops/DatabaseGPT) |
 
-Designed with backpressure handling, dead-letter queues, and automatic partition rebalancing. Grafana dashboards provide real-time visibility into system health and business metrics.
-
-</details>
-
-<details>
-<summary><b>🌐 Cloud-Native Marketplace — Scalable E-Commerce Platform</b></summary>
-<br>
-
-Full-stack marketplace application with microservices backend, real-time inventory management, payment processing, and AI-powered recommendation engine.
-
-| Dimension | Details |
-|:---|:---|
-| **Stack** | TypeScript, Next.js, Node.js, PostgreSQL, Redis, Stripe, AWS ECS |
-| **Scale** | Handles 100K+ concurrent users with auto-scaling |
-| **Performance** | Core Web Vitals: LCP < 1.2s, FID < 50ms, CLS < 0.05 |
-| **Security** | PCI-DSS compliant, OAuth 2.0, rate limiting, WAF |
-| **Impact** | 40% increase in conversion rate through personalized recommendations |
-| **Repository** | [View on GitHub →](https://github.com/23je0382-ops) |
-
-Recommendation engine uses collaborative filtering and content-based approaches, trained on user interaction data with A/B testing infrastructure for continuous model improvement.
-
-</details>
-
-<details>
-<summary><b>🧠 ML Model Serving Framework — Production ML Infrastructure</b></summary>
-<br>
-
-Lightweight framework for deploying, versioning, and monitoring machine learning models in production with automated rollback and canary deployments.
-
-| Dimension | Details |
-|:---|:---|
-| **Stack** | Python, FastAPI, Docker, Kubernetes, Prometheus, MLflow |
-| **Scale** | Serves 5M+ predictions/day across 12 model endpoints |
-| **Performance** | Model hot-swap in < 5s, zero-downtime deployments |
-| **Security** | Model artifact signing, encrypted model registry, RBAC |
-| **Impact** | Reduced model deployment time from 2 days to 15 minutes |
-| **Repository** | [View on GitHub →](https://github.com/23je0382-ops) |
-
-Features shadow deployments for safe production testing, automated drift detection, and a unified dashboard for model performance monitoring across all endpoints.
+Designed for non-technical users who need data insights without writing SQL. The system understands database schema context and generates optimized queries with natural language explanations of results.
 
 </details>
 
