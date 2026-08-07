@@ -221,9 +221,7 @@ Designed for non-technical users who need data insights without writing SQL. The
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=23je0382-ops&bg_color=0d1117&color=8B5CF6&line=7C3AED&point=c9d1d9&area=true&area_color=6D28D9&hide_border=true&custom_title=Contribution%20Graph" width="98%" />
 </p>
 
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="28" /> &nbsp;Contribution Snake
+## 🐍 &nbsp;Contribution Snake
 
 <p align="center">
   <picture>
@@ -235,36 +233,7 @@ Designed for non-technical users who need data insights without writing SQL. The
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" width="28" /> &nbsp;Current Focus
-
-```yaml
-Currently:
-  Learning:
-    - Advanced System Design Patterns
-    - Distributed Systems & Consensus Algorithms
-    - LLM Fine-Tuning & Prompt Engineering
-    - Rust for Systems Programming
-
-  Building:
-    - AI-Powered Developer Productivity Tools
-    - Real-Time Collaborative Platforms
-    - Open Source ML Infrastructure
-
-  Exploring:
-    - WebAssembly for Edge Computing
-    - Federated Learning
-    - Quantum Computing Fundamentals
-
-  Open To:
-    - Software Engineering Internships & Full-Time Roles
-    - Research Collaborations in AI/ML
-    - Open Source Maintainership
-    - Speaking at Tech Conferences
-```
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" width="28" /> &nbsp;Connect
+## 📬 &nbsp;Connect
 
 <p align="center">
   <a href="mailto:23je0382@iitism.ac.in"><img src="https://img.shields.io/badge/Gmail-23je0382@iitism.ac.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
