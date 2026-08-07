@@ -275,7 +275,7 @@ Currently:
 ---
 
 <p align="center">
-  <i>"Engineering excellence is not about perfection — it's about relentless iteration toward the best possible solution."</i>
+  <i>"Consistency > Hard Work > Intelligence"</i>
 </p>
 
 <p align="center">
