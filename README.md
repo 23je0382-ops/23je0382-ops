@@ -92,7 +92,7 @@ My work spans building intelligent systems powered by **machine learning**, desi
 <td align="center" width="96"><b>Cloud & DevOps</b></td>
 <td>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,githubactions,nginx&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,githubactions&theme=dark" />
   </a>
 </td>
 </tr>
