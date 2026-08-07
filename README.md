@@ -168,16 +168,23 @@ Designed for non-technical users who need data insights without writing SQL. The
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="28" /> &nbsp;Experience
 
-**Software Engineering Intern** · *Tech Company* · `Jun 2025 – Aug 2025`
+**Software and AI Engineer Intern** · *ClimateAgentsAI* · `Nov 2025 – Apr 2026` · `Remote`
 
-> Contributed to backend platform engineering for a high-traffic SaaS product serving enterprise clients.
+- Built a backend architecture — using FastAPI for AI orchestration — backed by PostgreSQL and Redis
+- Deployed 6 production-grade LangGraph agents to automate complex 6-8 step workflows, reducing manual processing overhead by up to 80%
+- Secured the request pipeline with strict data validation, maintaining 95% endpoint reliability across 1,000+ daily production requests
+- Accelerated product iteration in a high-velocity environment by shipping 15+ feature integrations within a 6-week sprint
 
-- Designed and implemented RESTful APIs handling 10K+ requests/minute with sub-100ms response times
-- Optimized database query performance, reducing average query latency by 45% through indexing and query restructuring
-- Built automated CI/CD pipelines with GitHub Actions, reducing deployment time by 60%
-- Collaborated with cross-functional teams to ship 3 major features within a single sprint cycle
+`Python` `FastAPI` `LangGraph` `PostgreSQL` `Redis` `AI Agents`
 
-`Python` `FastAPI` `PostgreSQL` `Redis` `Docker` `AWS` `GitHub Actions`
+---
+
+**Freelance Backend & AI Engineer** · *FinTech Client* · `Feb 2026 – Mar 2026` · `Remote`
+
+- Built an automated Python/FastAPI data pipeline to process multi-timeframe charts and 100,000+ rows of OHLC data for 3,000+ real-time users
+- Designed a fault-tolerant routing engine — integrating OpenAI API for structured JSON extraction and dispatching webhooks to WhatsApp with zero-crash fallbacks
+
+`Python` `FastAPI` `OpenAI API` `Webhooks` `Data Pipelines`
 
 ---
 
