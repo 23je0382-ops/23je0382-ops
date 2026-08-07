@@ -68,7 +68,7 @@ My work spans building intelligent systems powered by **machine learning**, desi
 <td align="center" width="96"><b>Languages</b></td>
 <td>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,c,java&theme=dark" />
   </a>
 </td>
 </tr>
@@ -84,7 +84,7 @@ My work spans building intelligent systems powered by **machine learning**, desi
 <td align="center" width="96"><b>Backend & DB</b></td>
 <td>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django,postgres,mongodb,redis&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=flask,django,postgres,mongodb,redis&theme=dark" />
   </a>
 </td>
 </tr>
