@@ -116,12 +116,12 @@ My work spans building intelligent systems powered by **machine learning**, desi
 
 | Domain | Proficiency | Details |
 |:---|:---:|:---|
-| **Data Structures & Algorithms** | ██████████ | Trees, graphs, dynamic programming, greedy, divide & conquer, competitive programming |
 | **Agentic AI** | ██████████ | LangChain, LangGraph, autonomous agents, tool-use orchestration, multi-agent systems |
 | **System Design** | █████████░ | Scalable architectures, microservices, load balancing, caching, database sharding |
+| **Data Structures & Algorithms** | ██████████ | Trees, graphs, dynamic programming, greedy, divide & conquer, competitive programming |
+| **Deep Learning** | ██████░░░░ | PyTorch, TensorFlow, neural architecture design, distributed training |
 | **Natural Language Processing** | ████████░░ | Transformer architectures, RAG pipelines, LLM fine-tuning, text classification |
 | **Classical ML** | ███████░░░ | Scikit-learn, XGBoost, feature engineering, model evaluation |
-| **Deep Learning** | ██████░░░░ | PyTorch, TensorFlow, neural architecture design, distributed training |
 
 
 ---
