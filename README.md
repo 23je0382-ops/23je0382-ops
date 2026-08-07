@@ -117,10 +117,11 @@ My work spans building intelligent systems powered by **machine learning**, desi
 | Domain | Proficiency | Details |
 |:---|:---:|:---|
 | **Natural Language Processing** | ██████████ | Transformer architectures, RAG pipelines, LLM fine-tuning, text classification |
-| **Computer Vision** | ████████░░ | Object detection, image segmentation, CNNs, transfer learning |
+| **Agentic AI** | █████████░ | LangChain, LangGraph, autonomous agents, tool-use orchestration, multi-agent systems |
 | **Deep Learning** | █████████░ | PyTorch, TensorFlow, neural architecture design, distributed training |
 | **Classical ML** | ██████████ | Scikit-learn, XGBoost, feature engineering, model evaluation |
-| **MLOps** | ███████░░░ | Model serving, experiment tracking, CI/CD for ML, containerized inference |
+| **System Design** | ████████░░ | Scalable architectures, microservices, load balancing, caching, database sharding |
+| **Data Structures & Algorithms** | ██████████ | Trees, graphs, dynamic programming, greedy, divide & conquer, competitive programming |
 | **Data Engineering** | ████████░░ | ETL pipelines, data warehousing, Apache Spark, stream processing |
 
 ---
