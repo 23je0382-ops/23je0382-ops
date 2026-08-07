@@ -185,11 +185,10 @@ Designed for non-technical users who need data insights without writing SQL. The
 
 | Recognition | Details |
 |:---:|:---|
-| 🏆 **Hackathon Winner** | 1st Place — National Level Hackathon, 500+ participants |
-| 🥇 **Competitive Programming** | Global Top 5% on Codeforces / LeetCode |
-| 📝 **Open Source** | Contributor to 10+ open source projects |
-| 🎯 **Academic Excellence** | Department Rank Top 10, CGPA 9.0+ |
-| 💡 **Research** | Published paper in ML/AI domain at peer-reviewed conference |
+| 🥈 **Runner-up** | Agglomeration 2.0, IIT (ISM) Dhanbad — Excelled in the Open Problem Statement track |
+| 🌍 **80th Rank Globally** | Shell.ai Hackathon — Engineered sustainable fuel blending models on HackerRank |
+| 🏅 **7th Place** | HackFest, IIT (ISM) Dhanbad — Solved the Chillar Company problem during an intensive 36-hour hackathon |
+| 🥈 **Runner-up** | Pitch-a-thon (E-Cell) — Awarded 2nd position for pitching and deck presentation |
 
 </p>
 
