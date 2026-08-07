@@ -76,7 +76,7 @@ My work spans building intelligent systems powered by **machine learning**, desi
 <td align="center" width="96"><b>Frontend</b></td>
 <td>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react&theme=dark" />
   </a>
 </td>
 </tr>
