@@ -126,7 +126,7 @@ My work spans building intelligent systems powered by **machine learning**, desi
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="28" /> &nbsp;Featured Projects
+## 🚀 &nbsp;Featured Projects
 
 <details>
 <summary><b>🤖 Agglomeration-IntelliDeskAI — Agentic AI Helpdesk 2.0</b></summary>
