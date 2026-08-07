@@ -68,7 +68,7 @@ My work spans building intelligent systems powered by **machine learning**, desi
 <td align="center" width="96"><b>Languages</b></td>
 <td>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript,go,rust&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript&theme=dark" />
   </a>
 </td>
 </tr>
@@ -94,6 +94,16 @@ My work spans building intelligent systems powered by **machine learning**, desi
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,githubactions,nginx&theme=dark" />
   </a>
+</td>
+</tr>
+<tr>
+<td align="center" width="96"><b>AI / ML</b></td>
+<td>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,fastapi&theme=dark" />
+  </a>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 </td>
 </tr>
 </table>
