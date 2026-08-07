@@ -194,17 +194,6 @@ Designed for non-technical users who need data insights without writing SQL. The
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="28" /> &nbsp;Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/u/23je0382-ops/"><img src="https://img.shields.io/badge/LeetCode-23je0382--ops-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1b27" /></a>
-  <a href="https://www.geeksforgeeks.org/user/23je0382-ops/"><img src="https://img.shields.io/badge/GeeksforGeeks-23je0382--ops-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a1b27" /></a>
-  <a href="https://www.hackerrank.com/23je0382-ops"><img src="https://img.shields.io/badge/HackerRank-23je0382--ops-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a1b27" /></a>
-  <a href="https://www.codechef.com/users/23je0382-ops"><img src="https://img.shields.io/badge/CodeChef-23je0382--ops-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a1b27" /></a>
-</p>
-
----
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;GitHub Analytics
 
 <p align="center">
