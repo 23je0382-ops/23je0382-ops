@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vikas Gupta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer&descAlignY=56&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vikas%20Gupta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=55" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=500&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Scalable+Systems+%26+Intelligent+Solutions;Software+Engineer+%7C+AI%2FML+Practitioner;Open+Source+Contributor+%7C+Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=500&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Scalable+Systems+%26+Intelligent+Solutions" />
   </a>
 </p>
 
@@ -38,9 +38,9 @@
 <tr>
 <td>
 
-Software Engineer with deep expertise in **full-stack development**, **artificial intelligence**, and **scalable system design**. I architect production-grade applications with a product engineering mindset — from concept to deployment, with emphasis on performance, reliability, and clean code.
+Software Engineer with deep expertise in **full-stack development**, **artificial intelligence**, and **scalable system design**. I architect production-grade applications with a product engineering mindset, blending technical rigor with user-centric design.
 
-My work spans building intelligent systems powered by **machine learning**, designing **cloud-native architectures**, and engineering **high-performance APIs** that serve real-world workloads. I approach every project with the rigor of enterprise engineering and the creativity of a builder.
+My work spans building intelligent systems powered by **machine learning**, designing **cloud-native architectures**, and engineering **high-performance APIs** that serve real-world workloads. I approach every problem as an opportunity to build systems that scale, perform, and matter.
 
 **Core Philosophy:** Write code that scales. Build systems that last. Ship products that matter.
 
@@ -142,7 +142,7 @@ Auto-classifies tickets, detects urgency, threads emails, and drafts RAG-powered
 | **AI** | Agentic workflows, tool-use orchestration, retrieval-augmented generation |
 | **Repository** | [View on GitHub →](https://github.com/23je0382-ops/Agglomeration-IntelliDeskAI) |
 
-Built with a multi-agent architecture where specialized agents handle classification, urgency scoring, thread management, and response generation — each orchestrated through LangGraph's stateful workflows.
+Built with a multi-agent architecture where specialized agents handle classification, urgency scoring, thread management, and response generation — each orchestrated through LangGraph's stateful workflow engine.
 
 </details>
 
@@ -197,18 +197,18 @@ Designed for non-technical users who need data insights without writing SQL. The
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=23je0382-ops&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=7C3AED&text_color=c9d1d9&ring_color=8B5CF6" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=23je0382-ops&theme=midnight-purple&hide_border=true&background=0d1117&stroke=8B5CF6&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6&sideLabels=8B5CF6&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6D28D9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=23je0382-ops&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=7C3AED&text_color=c9d1d9" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=23je0382-ops&theme=midnight-purple&hide_border=true&background=0d1117&stroke=8B5CF6&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23je0382-ops&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&langs_count=8" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23je0382-ops&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=8B5CF6" />
 </p>
 
 ## ⚡ &nbsp;Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=23je0382-ops&bg_color=0d1117&color=8B5CF6&line=7C3AED&point=c9d1d9&area=true&area_color=6D28D9&hide_border=true&custom_title=Contribution%20Graph" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=23je0382-ops&bg_color=0d1117&color=8B5CF6&line=7C3AED&point=c9d1d9&area=true&area_color=6D28D9&hide_border=true&custom_title=Contribution%20Graph" />
 </p>
 
 ## 🐍 &nbsp;Contribution Snake
